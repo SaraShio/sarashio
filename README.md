@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://sarashio.com/">
-    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Sara%20Shio's%20Website-blue">
+    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" target="_blank" src="https://img.shields.io/badge/Portfolio%3A-Sara%20Shio's%20Website-purple">
   </a>
   <br><br>
 </p>
