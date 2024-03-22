@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! My name is Sara Shio</h1>
+<h1 align="center">Hello! I'm Sara Shio 👋</h1>
 
 <p align="center">
   <a href="https://sarashio.com/">
